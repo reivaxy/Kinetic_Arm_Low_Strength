@@ -6,6 +6,9 @@ One inconvenient of the Kinetic arm is that it requires some strength to be able
 
 This design solves this issue, at the cost of the wrist rotation. The locking mechanism is no longer used in this design.
 
+<img src="https://github.com/user-attachments/assets/d65f4a92-9e59-4d4f-9f84-2ee3da72ef1b" width="512px">
+
+
 The fingers can be closed applying a weaker force that we can measure with a weight scale at about 270 grams (instead of 1kg or more for original design). This test was done using TPE Shore 83A hinges, and monothread nylon wire.
 
 <img src="https://github.com/user-attachments/assets/73e9ddf5-50ef-433d-9718-2397ed360343" width="512px">
